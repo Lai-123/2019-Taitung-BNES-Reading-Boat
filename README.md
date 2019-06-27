@@ -5,9 +5,8 @@
 >以人道建築宗旨出發，由台灣交通大學服務學習中心、全球公民教育中心發起，與柬埔寨DPC小學、家扶中心合作規劃。使用自然材料、就地取材為原則，由交大建築所策劃義築設計、大安高工進行實作測試與志工培訓，設計規劃一個可容納約30名師生使用，離地抬高20至200公分並錯落配置的木鐵混構閱讀及活動平台。<br/>
 
 ## 基地環境：<br/>
-位於柬泰邊境聚落，木材使用未加工原木，設計時宜需注意材料含濕變形，以及後續防潮防蝕保護等。<br/>
-* 基地環境氣象資料：http://worldweather.wmo.int/tc/home.html <br/>
-* 氣象觀測歷史紀錄：http://worldweather.wmo.int/tc/city.html?cityId=347 <br/>
+位於台東<br/>
+* 氣象觀測歷史紀錄：https://e-service.cwb.gov.tw/HistoryDataQuery/MonthDataController.do?command=viewMain&station=467660&stname=%25E8%2587%25BA%25E6%259D%25B1&datepicker=2018-08 <br/>
 * Google Map 位置：https://goo.gl/maps/whQMfPcNdqQ1RDNp8  <br/>
 
 ![](https://github.com/AHA-Taiwan/2019-Taitung-BNES-Reading-Boat/blob/master/001.%20Blueprint/README%20IMAGE/GMAP.png "Google Map")
