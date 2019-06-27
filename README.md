@@ -8,9 +8,9 @@
 位於柬泰邊境聚落，木材使用未加工原木，設計時宜需注意材料含濕變形，以及後續防潮防蝕保護等。<br/>
 * 基地環境氣象資料：http://worldweather.wmo.int/tc/home.html <br/>
 * 氣象觀測歷史紀錄：http://worldweather.wmo.int/tc/city.html?cityId=347 <br/>
-* Google Map 位置：https://goo.gl/maps/Xri239yRok2xkyNN6  <br/>
+* Google Map 位置：https://goo.gl/maps/whQMfPcNdqQ1RDNp8  <br/>
 
-![](https://github.com/AHA-Taiwan/2019-Cambodia-DPC-Reading-Deck/blob/master/001.%20Blueprint/README%20IMAGE/DPC%20Gmap.png "Google Map")
+![](https://github.com/AHA-Taiwan/2019-Taitung-BNES-Reading-Boat/blob/master/001.%20Blueprint/README%20IMAGE/GMAP.png "Google Map")
 ***
 ## 專案介紹：<br/>
 * 主要建材：方鐵管[7.5x7.5x600cm(厚1.5mm)]、扁鐵管[4x8x600cm(厚1.5mm)]、原木板[2x25x400cm]、柬埔寨紅磚[8x8x17.5cm]等。
